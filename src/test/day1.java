@@ -54,6 +54,8 @@ public class day1 {
 	public void SecondTest()
 	{
 		System.out.println("Bye");
+		System.out.println("Hello");
+		System.out.println("Hello1");
 	}
 
 }
