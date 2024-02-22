@@ -19,6 +19,14 @@ public class day2 {
 		System.out.println("personal loan method2");
 	
 	}
+	
+	@Test
+	public void PersonalLoan2()
+	{
+		
+		System.out.println("personal loan method2");
+	
+	}
 		
 	@BeforeTest
 	public void prerequisite()

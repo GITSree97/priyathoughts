@@ -47,6 +47,8 @@ public class day1 {
 	public void Demo()
 	{
 		System.out.println("Hello");
+		System.out.println("Hello2");
+		System.out.println("Hello3");	
 		Assert.assertTrue(false);
 	}
 	
