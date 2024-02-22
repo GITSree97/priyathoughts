@@ -42,6 +42,7 @@ public class day3 {
 	public void webLoginCarLoan(String urlname)
 	{	
 		System.out.println("Weblogin car");
+		
 		System.out.println(urlname);
 	}
 	

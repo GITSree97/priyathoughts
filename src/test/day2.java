@@ -16,7 +16,7 @@ public class day2 {
 	public void PersonalLoan()
 	{
 		System.out.println("personal loan method");
-		
+		System.out.println("personal loan method2");
 	
 	}
 		
